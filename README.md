@@ -143,5 +143,5 @@ Click the transaction and take a screenshot of it.
 Save this screenshot to the README.md file of your GitHub repository for
 this Challenge assignment.
 
-![Ganache Transactions Tab](https://github.com/HilaryWillis/Fintech_Finder/blob/main/Starter_Code/Images/Screenshot%20(52).png)
+![Ganache Transactions Tab](https://github.com/HilaryWillis/Fintech_Finder/blob/main/Starter_Code/Images/Screenshot%20(50).png)
 
