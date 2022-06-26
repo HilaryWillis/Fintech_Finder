@@ -1,7 +1,6 @@
 # Fintech_Finder
-# Cryptocurrency Wallet
+## Cryptocurrency Wallet
 
-################################################################################
 For this Challenge, you will assume the perspective of a Fintech Finder
 customer in order to do the following:
 
@@ -124,6 +123,8 @@ from the appropriate drop-down menu. Then, enter the number of hours that you
 would like to hire them for. (Remember, you do not have a lot of ether in
 your account, so you cannot hire them for long!)
 
+![Streamlit Fintech Finder interface](https://github.com/HilaryWillis/Fintech_Finder/blob/main/Starter_Code/Images/Screenshot%20(51).png)
+
 4. Click the Send Transaction button to sign and send the transaction with
 your Ethereum account information. If the transaction is successfully
 communicated to Ganache, validated, and added to a block,
@@ -135,8 +136,12 @@ Take a screenshot of the address, balance, and transaction (TX) count.
 Save this screenshot to the README.md file of your GitHub repository for
 this Challenge assignment.
 
+![Ganache Accounts Tab](https://github.com/HilaryWillis/Fintech_Finder/blob/main/Starter_Code/Images/Screenshot%20(52).png)
+
 6. Navigate to the Ganache transactions tab and locate the transaction.
 Click the transaction and take a screenshot of it.
 Save this screenshot to the README.md file of your GitHub repository for
 this Challenge assignment.
+
+![Ganache Transactions Tab](https://github.com/HilaryWillis/Fintech_Finder/blob/main/Starter_Code/Images/Screenshot%20(52).png)
 
